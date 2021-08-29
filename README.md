@@ -1,9 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Leonardo</h1>
-<h3 align="center">I always used to be a technology lover :D For now, I'm a Front end developer,  who loves to build creative and functional designs </h3>
+<h3 align="center">I always used to be a technology lover :D For now, I'm a Front end developer,  who loves to build creative and functional designs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lfelix885&label=Profile%20views&color=0e75b6&style=flat" alt="lfelix885" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lfelix885" alt="lfelix885" /></a> </p>
 
 - 💬 Ask me about **JavaScript, and its features :D**
 
@@ -21,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lfelix885&show_icons=true&locale=en&layout=compact" alt="lfelix885" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lfelix885&show_icons=true&locale=en" alt="lfelix885" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lfelix885&" alt="lfelix885" /></p>
