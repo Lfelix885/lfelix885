@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Leonardo</h1>
-<h3 align="center">I always used to be a technology lover :D For now, I'm a Front end developer,  who loves to build creative and functional designs</h3>
+<h3 align="center">I always used to be a technology lover :D For now, I'm a Front end developer,  who loves to build creative and functional applications</h3>
 
 - 💬 Ask me about **JavaScript, and its features :D**
 
